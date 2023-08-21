@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\bin\Debug\APDJ PRJ.exe.config
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\bin\Debug\APDJ PRJ.exe
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\bin\Debug\APDJ PRJ.pdb
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\obj\Debug\APDJ PRJ.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\obj\Debug\APDJ_PRJ.Form1.resources
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\obj\Debug\APDJ_PRJ.Properties.Resources.resources
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\obj\Debug\APDJ PRJ.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\obj\Debug\APDJ PRJ.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\obj\Debug\APDJ PRJ.exe
+C:\Users\USER\Desktop\C# School Project\APDJ PRJ\obj\Debug\APDJ PRJ.pdb
